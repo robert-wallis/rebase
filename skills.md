@@ -1,8 +1,10 @@
 # Some Skills
 
-* git
 * C
 * C#
+* C++
+* Java
 * JavaScript
+* git
 * go
 
