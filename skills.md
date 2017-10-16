@@ -7,4 +7,5 @@
 * JavaScript
 * git
 * go
+* Swift
 
