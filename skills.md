@@ -4,5 +4,5 @@
 * C
 * C#
 * JavaScript
-* golang
+* go
 
