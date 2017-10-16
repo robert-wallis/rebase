@@ -1,9 +1,9 @@
 # Some Skills
 
-* git
 * C
 * C#
 * C++
 * JavaScript
+* git
 * golang
 
