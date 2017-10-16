@@ -6,5 +6,5 @@
 * Java
 * JavaScript
 * git
-* golang
+* go
 
