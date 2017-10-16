@@ -2,6 +2,7 @@
 
 * C
 * C#
+* C++
 * Java
 * JavaScript
 * git
